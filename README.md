@@ -6,7 +6,6 @@
 
 A web application that generates creative stories using Google's Gemini AI. Users can customize genre, length, and prompts to generate unique stories instantly.
 
-![Demo Screenshot](./client/public/screenshot.png) *(Replace with actual screenshot)*
 
 ## ✨ Features
 
